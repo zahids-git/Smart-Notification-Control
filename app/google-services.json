@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969342153451",
+    "firebase_url": "https://smartpushnotification-142409.firebaseio.com",
+    "project_id": "smartpushnotification-142409",
+    "storage_bucket": "smartpushnotification-142409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969342153451:android:47938fd338169607",
+        "android_client_info": {
+          "package_name": "me.zahidul_islam.smartpushnotificationreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969342153451-naq0l22thihqiquf35s1ta7gukrhbh4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.zahidul_islam.smartpushnotificationreceiver",
+            "certificate_hash": "5B9A892B463A29A19C9BEFF8BCAD5FACA2F7D85C"
+          }
+        },
+        {
+          "client_id": "969342153451-ags4r4rvdft4hv40fimb6l70tfic53vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4NXvLCJGf5ZZ-b_e0S-LKXYR4_hxPOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969342153451-ags4r4rvdft4hv40fimb6l70tfic53vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

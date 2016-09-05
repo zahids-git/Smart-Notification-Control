@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Notification Control</string>
+    <string name="share_pref">local_storage</string>
+    <string name="token_key">token</string>
+</resources>
